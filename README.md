@@ -1,4 +1,4 @@
-- Hello! I am Equalizer! I enjoy mapmaking for Portal 2 and am a QA tester for [Portal 2: Community Edition](portal2communityedition.com)!
+- Hello! I am Equalizer! I enjoy mapmaking for Portal 2 and am a QA tester for [Portal 2: Community Edition](https://portal2communityedition.com)!
 - Shameless Source stan
 - If you have any mapmaking questions, feel free to contact me!
 - Best way to reach me: Discord. equalizer__.
